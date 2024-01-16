@@ -1,0 +1,34 @@
+.div1
+{
+    height: 600px; 
+    width: 600px;
+    background-color: rgb(15, 162, 113);
+}
+#input
+{
+    height: 50px ;
+    width: 400px;
+    position: relative; 
+    top: 25px;
+    border-radius: 20px;
+    border: 2px solid rgb(242, 18, 18);
+    font-size: 15px;
+    font-weight: 800;
+    color: black;
+}
+#input:hover 
+{
+    border : 3px solid rgb(115, 41, 205) ; 
+}
+.btn 
+{
+    border : 2px solid rgb(18, 25, 147) ; 
+    background-color:darkkhaki;
+}
+.sample 
+{
+    border: 2px solid rgb(184, 41, 41); 
+    border-radius: 5px;
+    color: black;
+    font-weight: 600;
+}
